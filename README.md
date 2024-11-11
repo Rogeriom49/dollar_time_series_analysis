@@ -29,3 +29,6 @@ O objetivo deste projeto é explorar dados históricos da IBOVESPA, aplicando t�
   - Prophet para validação de modelo de previsão
   - Scikit-learn avaliação de modelos
 - **Jupyter Notebook** para prototipação e exploração de dados
+
+## Considerações
+Dados coletados em https://br.investing.com/indices/bovespa-historical-data
